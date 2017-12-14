@@ -1,5 +1,0 @@
- 
-##change enter File root directory
-
-1.cd C:\Users\***\Desktop\****\Style-Transfer  
-2.>>python neural_style.py --content ./examples/content/1.jpg --styles ./examples/style/1.jpg --output ./examples/result/1.jpg ##enter Command 
